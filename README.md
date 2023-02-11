@@ -17,7 +17,7 @@ Using the power of github.dev, a service that allows you to work with files in G
 
 ## Video walk-through
 
-[![workshop walk-through](./images/promo.png)](https://youtu.be/M2IrPFMFwx8 "workshop walk-through")
+[![workshop walk-through]([./images/promo.png](https://github.com/microsoft/workshop-library/blob/main/full/build-resume-website/images/promo.png))](https://youtu.be/M2IrPFMFwx8 "workshop walk-through")
 > 🎥 Click this image to watch Ornella and Burke as they walk you through the workshop
 
 ## Prerequisites
@@ -26,7 +26,7 @@ To create your resume website, you'll need to download a modern web browser like
 ## Final Project
 By the end of this workshop, you'll have created a resume web site that will look like this:
 
-![resume website](./images/final-result.png)
+![resume website](https://github.com/microsoft/workshop-library/blob/main/full/build-resume-website/images/final-result.png)
 
 ## Outline
 In this workshop, you will: 
